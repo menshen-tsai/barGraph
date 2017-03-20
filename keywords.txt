@@ -1,0 +1,6 @@
+BarGraph	KEYWORD1
+begin	KEYWORD2
+setColor	KEYWORD2
+drawBar	KEYWORD2
+drawScale	KEYWORD2
+drawText	KEYWORD2
